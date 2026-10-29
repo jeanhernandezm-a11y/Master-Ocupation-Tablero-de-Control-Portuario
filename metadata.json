@@ -1,0 +1,6 @@
+{
+  "name": "Master Ocupation - Tablero de Control Portuario",
+  "description": "Sistema integral de control y visualización de ocupación ponderada para terminales portuarias SPRB y BITCO, con maestro de patios, bodegas, zonas y exportación de reportes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
